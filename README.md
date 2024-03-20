@@ -56,6 +56,3 @@ A seasoned Salesforce Technical Lead/Architect with a knack for translating busi
 ![Profile views counter](https://komarev.com/ghpvc/?username=jesusloes&&style=flat-square)  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
